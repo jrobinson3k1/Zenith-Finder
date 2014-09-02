@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zenith Finder</string>
+    <string name="camera_error">The camera is currently in use by another application.</string>
+    <string name="z">Z</string>
+</resources>
